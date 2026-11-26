@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1 Score,ROC-AUC
+Logistic Regression,0.8028,0.661,0.5242,0.5847,0.8403
+K-Nearest Neighbors,0.7616,0.5546,0.5054,0.5288,0.7924
+Support Vector Machine,0.7986,0.663,0.4866,0.5612,0.785
+Decision Tree,0.7936,0.6395,0.5054,0.5646,0.8249
