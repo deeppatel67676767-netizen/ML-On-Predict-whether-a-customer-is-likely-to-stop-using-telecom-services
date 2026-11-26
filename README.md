@@ -1,0 +1,2 @@
+# Machine-Learning-Project-On-Predict-whether-a-customer-is-likely-to-stop-using-telecom-services.
+Customer Churn Prediction uses machine learning to identify customers likely to leave a telecom service. It compares Logistic Regression, KNN, SVM, and Decision Tree models and predicts churn probability through a simple Streamlit app, helping businesses understand customer behavior and improve retention.
